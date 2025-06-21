@@ -1,54 +1,84 @@
-# 👋 Hi there! I'm Eman Emad El Kholy
+<h1 align="center">Eman Emad Elkholy</h1>
 
-💻 **Software Engineering Student** | **Backend Developer**  
-🎓 Faculty of Engineering, Mansoura University – Computer & Control Systems Dept.  
-🌍 Passionate about backend systems, API integrations, and tech for mental well-being.
+<p align="center">
+  <strong>Back-End Laravel Developer</strong> | Scalable API Architect | Clean Code Enthusiast  
+</p>
 
-📬 Reach me at: **emanemadelkoly@gmail.com**  
-🔗 Portfolio Project: [Fadfadly Mental Health App (API)](https://github.com/emanemad-dev/fadfadly-backend)
-
----
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eman-emad/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanemad.elkoly/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/emanemad.elkoly)
+<p align="center">
+  📍 Mansoura, Egypt – Willing to relocate to Saudi Arabia • 📬 emanemadelkoly@gmail.com • 📞 +20 120 799 5306  
+</p>
 
 ---
 
-## 💼 Highlighted Project: **Fadfadly - Mental Health API**
+## 👩‍💻 About Me
 
-A scalable, modular Laravel API built to power a mental health & social engagement app.  
-✅ Features include:
-- 🧠 Sentiment Analysis (AI-powered)
-- 🔔 Notification System
-- 🗳️ Polls & Reactions
-- 🧪 Psychological Testing
-- ⏱️ Time Tracking with Sessions
-- 📡 Podcast & Episode Integration (ListenNotes API)
+I’m a passionate Back-End Developer with hands-on experience in designing and developing robust and scalable RESTful APIs using Laravel. My expertise covers secure authentication flows, database design, clean architecture, and integration with third-party services.
+
+I’m highly focused on writing maintainable code and building systems that are both reliable and extensible. Currently open to back-end development opportunities in **Saudi Arabia** — remote or on-site.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Tech Stack
 
-![Laravel](https://img.shields.io/badge/Laravel-F42C2C?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- **Languages:** PHP, C++, C, C#, JavaScript  
+- **Frameworks & Libraries:** Laravel 10, Livewire, Filament  
+- **Databases:** MySQL, SQL, Redis, Eloquent ORM  
+- **Architecture & Practices:** MVC, SOLID Principles, OOP, Design Patterns  
+- **APIs & Testing:** RESTful APIs, Postman, Swagger, Laravel Telescope  
+- **DevOps & Tools:** Docker, Git, GitHub, GitLab, CI/CD, ClickUp  
+- **OS & Networking:** Linux, Windows, Basic Networking Concepts  
+- **Problem Solving:** Data Structures, Algorithms, Competitive Programming
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Featured Projects
 
-![Eman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanemad-dev&show_icons=true&theme=radical)
+### 🔹 [Fadfadly – Mental Wellness Platform](https://github.com/FADFADLY/Back-End)
+Built a Laravel-based API platform that integrates AI-powered sentiment analysis, psychological testing, habit tracking, podcasts, and a full social interaction layer.
+
+> **Tech Stack:** Laravel 10, RESTful APIs, AI APIs, MySQL, Eloquent ORM, Carbon, Postman
+
+### 🔹 [Invoices System](#)
+A smart Laravel invoicing system with product/user management, smart notifications, PDF exports, and role-based access.
+
+### 🔹 [BloodBank System](#)
+Multi-role blood bank management app with real-time notifications, favorite donors, and a complete admin dashboard.
+
+### 🔹 [Blog System](#)
+Content management blog with RESTful APIs and API authentication using Laravel Sanctum.
 
 ---
 
-✨ _Building meaningful tech that helps people live better._  
+## 🏆 Achievements
+
+- 🥈 **2nd Place**, IEEE Victoris 2.0 – Software Engineering Competition (2023)  
+- ✅ **ECPC Alexandria – Qualified Participant** (2023)
+
+---
+
+## 🌐 Community & Volunteering
+
+- 💻 **Volunteer Back-End Developer**, IEEE ManCSC  
+- 🧠 **Member**, ICPC Mansoura
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eman-emad/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/emanemad.elkoly/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/emanemad.elkoly">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“I don’t just write code — I build maintainable systems that scale.”</i>
+</p>
