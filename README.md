@@ -20,14 +20,54 @@ I’m highly focused on writing maintainable code and building systems that are 
 
 ## 🚀 Tech Stack
 
-- **Languages:** PHP, C++, C, C#, JavaScript  
-- **Frameworks & Libraries:** Laravel 10, Livewire, Filament  
-- **Databases:** MySQL, SQL, Redis, Eloquent ORM  
-- **Architecture & Practices:** MVC, SOLID Principles, OOP, Design Patterns  
-- **APIs & Testing:** RESTful APIs, Postman, Swagger, Laravel Telescope  
-- **DevOps & Tools:** Docker, Git, GitHub, GitLab, CI/CD, ClickUp  
-- **OS & Networking:** Linux, Windows, Basic Networking Concepts  
-- **Problem Solving:** Data Structures, Algorithms, Competitive Programming
+**Languages**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E5D94?style=for-the-badge)
+![Filament](https://img.shields.io/badge/Filament-EF4444?style=for-the-badge)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Eloquent ORM](https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge)
+
+**Architecture & Practices**  
+![MVC](https://img.shields.io/badge/MVC-4B5563?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-10B981?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-2563EB?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-8B5CF6?style=for-the-badge)
+
+**APIs & Testing**  
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-6B7280?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Laravel Telescope](https://img.shields.io/badge/Telescope-FF2D20?style=for-the-badge)
+
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-06B6D4?style=for-the-badge)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge)
+
+**OS & Networking**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-4B5563?style=for-the-badge)
+
+**Problem Solving**  
+![Data Structures](https://img.shields.io/badge/Data%20Structures-10B981?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-3B82F6?style=for-the-badge)
+![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-9333EA?style=for-the-badge)
+
 
 ---
 
