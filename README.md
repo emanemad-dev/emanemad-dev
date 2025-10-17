@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📍 Mansoura, Egypt – Willing to relocate to Saudi Arabia • 📬 emanemadelkoly@gmail.com • 📞 +20 120 799 5306  
+  📍 Mansoura, Egypt • 📬 emanemadelkoly@gmail.com • 📞 +20 120 799 5306  
 </p>
 
 ---
