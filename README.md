@@ -85,9 +85,16 @@ Open to **Remote roles and relocation (Saudi Arabia / GCC)**.
 ---
 
 ### 🤖 AI & Modern Tools
+
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge)
 ![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-222222?style=for-the-badge)
+
+- AI Integration in Web Applications (APIs, automation, smart features)  
+- Prompt Engineering & AI-assisted development workflows  
+- Generative AI usage for content, automation, and productivity  
+- Building AI-powered features (e.g., sentiment analysis, recommendations)  
+- Experience with AI tools: ChatGPT, GitHub Copilot, Cursor, Claude  
 
 ---
 
