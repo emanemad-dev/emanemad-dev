@@ -16,6 +16,10 @@
 
 ---
 
+## 📄 Download My CV
+
+[📥 Download My CV](./CV/Eman_Emad_Elkholy_CV.pdf)
+
 ## 🚀 About Me
 
 Full Stack Engineer with hands-on experience building **end-to-end scalable web applications** using **Laravel, React, Next.js, Vue.js, and Nuxt.js**.
