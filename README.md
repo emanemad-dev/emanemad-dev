@@ -104,8 +104,7 @@ Open to **Remote roles and relocation (Saudi Arabia / GCC)**.
 ## 🏆 Featured Projects
 
 ### 🛒 FreshCart – E-Commerce Platform
-🔗 Live: https://freshcart-rose.vercel.app  
-💻 GitHub: https://github.com/emanemad-dev/freshcart  
+[🌐](https://freshcart-rose.vercel.app) [💻](https://github.com/emanemad-dev/freshcart)
 
 - Built complete **e-commerce frontend** (auth, cart, wishlist, checkout)  
 - Next.js + TypeScript + Zustand + React Query  
@@ -114,8 +113,7 @@ Open to **Remote roles and relocation (Saudi Arabia / GCC)**.
 ---
 
 ### 🖼️ Adasa – Photography Blog Platform
-🔗 Live: https://adasa-blog-one.vercel.app  
-💻 GitHub: https://github.com/emanemad-dev/adasa-blog  
+[🌐](https://adasa-blog-one.vercel.app) [💻](https://github.com/emanemad-dev/adasa-blog)
 
 - Responsive blog platform with filtering & search  
 - React + Vite  
@@ -124,15 +122,12 @@ Open to **Remote roles and relocation (Saudi Arabia / GCC)**.
 ---
 
 ### 🧠 Fadfadly – Mental Wellness Platform
-🔗 GitHub: https://github.com/FADFADLY/Back-End  
+[💻](https://github.com/FADFADLY/Back-End)
 
 - Scalable Laravel API  
 - AI emotion analysis  
 - Social system + habits + tests  
 - Podcast integration  
-
----
-
 ## 🏅 Achievements
 
 - 🥈 2nd Place – IEEE Victoris 2.0  
