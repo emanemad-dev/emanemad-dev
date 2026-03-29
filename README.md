@@ -163,5 +163,5 @@ Open to **Remote roles and relocation (Saudi Arabia / GCC)**.
 ---
 
 <p align="center">
-  <strong>“I build scalable systems — not just features.”</strong>
+  <em>Designing and building scalable, reliable systems that prioritize performance, maintainability, and real-world impact.</em>
 </p>
