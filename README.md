@@ -1,4 +1,4 @@
-# 💎 Eman Emad Elkholy
+<h1 align="center">💎 Eman Emad Elkholy</h1>
 
 <p align="center">
   <strong>Full Stack Engineer (Laravel | React | Next.js | Vue.js | Nuxt.js)</strong><br/>
@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  📍 Mansoura, Egypt • 📬 emanemadelkoly@gmail.com • 📞 +20 120 799 5306
+  📍 Mansoura, Egypt • 📬 emanemadelkoly@gmail.com • 📞 +20 120 799 5306  
 </p>
 
 <p align="center">
-  <a href="https://github.com/emanemad-dev">GitHub</a> •
+  <a href="https://github.com/emanemad-dev">GitHub</a> • 
   <a href="https://www.linkedin.com/in/eman-emad/">LinkedIn</a>
 </p>
 
@@ -20,28 +20,26 @@
 
 Full Stack Engineer with hands-on experience building **end-to-end scalable web applications** using **Laravel, React, Next.js, Vue.js, and Nuxt.js**.
 
-Skilled in designing **robust RESTful APIs**, crafting **modern responsive frontends**, and ensuring seamless **client-server integration**.
+I specialize in designing **robust RESTful APIs**, crafting **modern responsive frontends**, and delivering seamless **client-server integration**.
 
-Strong foundation in **Clean Architecture, SOLID principles, and performance optimization**, with a focus on delivering **maintainable, high-quality, and production-ready systems**.
+Focused on **Clean Architecture, SOLID principles, performance optimization**, and building **production-ready systems**.
 
-Experienced in integrating **third-party services, AI-powered features, and secure authentication systems**, while working effectively in **agile development environments**.
-
-Open to **Remote opportunities and relocation (Saudi Arabia / GCC)**.
+Open to **Remote roles and relocation (Saudi Arabia / GCC)**.
 
 ---
 
 ## 🧠 Tech Stack
 
 ### ⚙️ Back-End
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![REST API](https://img.shields.io/badge/REST%20APIs-6B7280?style=for-the-badge)
 ![RBAC](https://img.shields.io/badge/RBAC-2563EB?style=for-the-badge)
 ![Queues](https://img.shields.io/badge/Queues-9333EA?style=for-the-badge)
 ![Livewire](https://img.shields.io/badge/Livewire-4E5D94?style=for-the-badge)
 ![Filament](https://img.shields.io/badge/Filament-EF4444?style=for-the-badge)
-![Payment](https://img.shields.io/badge/Payment%20Gateways-10B981?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI%20Integration-8B5CF6?style=for-the-badge)
+![Payment](https://img.shields.io/badge/Payment%20Gateways-10B981?style=for-the-badge)
 
 ---
 
@@ -60,9 +58,16 @@ Open to **Remote opportunities and relocation (Saudi Arabia / GCC)**.
 
 ---
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 🗄️ Databases (Advanced)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+
+- Database Design & Normalization  
+- Query Optimization & Indexing  
+- Complex Joins & Relationships  
+- Migrations & Schema Management  
+- Data Integrity & Performance Tuning  
+- Caching Strategies (Redis)  
 
 ---
 
@@ -79,51 +84,42 @@ Open to **Remote opportunities and relocation (Saudi Arabia / GCC)**.
 
 ---
 
-### 🧪 Testing & Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
-![Telescope](https://img.shields.io/badge/Laravel%20Telescope-FF2D20?style=for-the-badge)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge)
-
----
-
 ### 🤖 AI & Modern Tools
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge)
 ![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-222222?style=for-the-badge)
-![Prompt](https://img.shields.io/badge/Prompt%20Engineering-10B981?style=for-the-badge)
 
 ---
 
 ## 🏆 Featured Projects
 
 ### 🛒 FreshCart – E-Commerce Platform
-🔗 https://freshcart-rose.vercel.app  
+🔗 Live: https://freshcart-rose.vercel.app  
+💻 GitHub: https://github.com/emanemad-dev/freshcart  
 
-- Built a complete **e-commerce frontend** (auth, cart, wishlist, checkout)  
-- Developed using **Next.js, React, TypeScript**  
-- State management with **Zustand & React Query**  
-- Modern UI using **Tailwind CSS + animations**  
+- Built complete **e-commerce frontend** (auth, cart, wishlist, checkout)  
+- Next.js + TypeScript + Zustand + React Query  
+- Modern UI with Tailwind & animations  
 
 ---
 
 ### 🖼️ Adasa – Photography Blog Platform
-🔗 https://adasa-blog-one.vercel.app  
+🔗 Live: https://adasa-blog-one.vercel.app  
+💻 GitHub: https://github.com/emanemad-dev/adasa-blog  
 
-- Built a **responsive blog platform** with filtering & search  
-- Developed using **React + Vite**  
-- Supports **RTL + Arabic UI**  
-- Modern UI with animations and UX improvements  
+- Responsive blog platform with filtering & search  
+- React + Vite  
+- RTL support + modern UI  
 
 ---
 
 ### 🧠 Fadfadly – Mental Wellness Platform
-🔗 https://github.com/FADFADLY/Back-End  
+🔗 GitHub: https://github.com/FADFADLY/Back-End  
 
-- Designed **scalable Laravel API architecture**  
-- Integrated **AI emotion analysis**  
-- Built **tests, habit tracking, social system**  
-- Integrated **ListenNotes API for podcasts**  
+- Scalable Laravel API  
+- AI emotion analysis  
+- Social system + habits + tests  
+- Podcast integration  
 
 ---
 
@@ -141,7 +137,7 @@ Open to **Remote opportunities and relocation (Saudi Arabia / GCC)**.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eman-emad/">
