@@ -86,15 +86,20 @@ Open to **Remote roles and relocation (Saudi Arabia / GCC)**.
 
 ### 🤖 AI & Modern Tools
 
+![AI Integration](https://img.shields.io/badge/AI%20Integration-8B5CF6?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-10B981?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6366F1?style=for-the-badge)
+![AI Features](https://img.shields.io/badge/AI%20Powered%20Features-F59E0B?style=for-the-badge)
+
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge)
 ![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-222222?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-AI-FF6B6B?style=for-the-badge)
 
 - AI Integration in Web Applications (APIs, automation, smart features)  
 - Prompt Engineering & AI-assisted development workflows  
-- Generative AI usage for content, automation, and productivity  
-- Building AI-powered features (e.g., sentiment analysis, recommendations)  
-- Experience with AI tools: ChatGPT, GitHub Copilot, Cursor, Claude  
+- Generative AI for content, automation, and productivity  
+- Building AI-powered features (sentiment analysis, recommendations)  
 
 ---
 
