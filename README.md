@@ -18,7 +18,7 @@
 
 ## 📄 Download My CV
 
-[📥 Download My CV](./CV/Eman_Emad_Elkholy_CV.pdf)
+[📥 Download My CV](./CV/Eman_Emad_Elkholy_FullStack_Developer_CV.pdf)
 
 ## 🚀 About Me
 
