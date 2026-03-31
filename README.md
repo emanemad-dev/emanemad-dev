@@ -11,7 +11,9 @@
 
 <p align="center">
   <a href="https://github.com/emanemad-dev">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/eman-emad/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/eman-emad/">LinkedIn</a> • 
+  <a href="https://www.facebook.com/share/1Cooyhiusq/?mibextid=wwXIfr">Facebook</a> • 
+  <a href="https://www.instagram.com/emanemad.elkoly?igsh=bWt4bXA4djlocmQy&utm_source=qr">Instagram</a>
 </p>
 
 ---
